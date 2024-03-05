@@ -23,6 +23,17 @@ body {
     background-color: aqua;
     padding: 150px 0px 0px;
 }
+.menu li{
+    margin-bottom: 10px;
+}
+
+.main tbody{
+    text-align: center;
+}
+.main table{
+    margin: 10px;
+}
+
 .header {
     background-color: rgb(5, 108, 108);
     min-height: 150px;
